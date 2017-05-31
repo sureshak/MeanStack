@@ -1,5 +1,5 @@
-# mean-stack-registration-login-example
-
-MEAN Stack User Registration and Login Example & Tutorial
-
-To see a demo and further details go to http://jasonwatmore.com/post/2015/12/09/mean-stack-user-registration-and-login-example-tutorial
+1) clone the project from :  https://github.com/sureshak/MeanStack.git
+2) Setup mean stack environment in local system.
+3) Run "npm install"
+4) Access the page using the URL : http://localhost:3000  
+5) optional : Use Robomongo as mongodb workbench.
